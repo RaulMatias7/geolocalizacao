@@ -1,0 +1,15 @@
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\bin\Debug\netcoreapp3.1\GeoLocalizacao.exe
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\bin\Debug\netcoreapp3.1\GeoLocalizacao.deps.json
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\bin\Debug\netcoreapp3.1\GeoLocalizacao.runtimeconfig.json
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\bin\Debug\netcoreapp3.1\GeoLocalizacao.runtimeconfig.dev.json
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\bin\Debug\netcoreapp3.1\GeoLocalizacao.dll
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\bin\Debug\netcoreapp3.1\GeoLocalizacao.pdb
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\obj\Debug\netcoreapp3.1\GeoLocalizacao.csprojAssemblyReference.cache
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\obj\Debug\netcoreapp3.1\GeoLocalizacao.AssemblyInfoInputs.cache
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\obj\Debug\netcoreapp3.1\GeoLocalizacao.AssemblyInfo.cs
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\obj\Debug\netcoreapp3.1\GeoLocalizacao.dll
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\obj\Debug\netcoreapp3.1\GeoLocalizacao.pdb
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\obj\Debug\netcoreapp3.1\GeoLocalizacao.genruntimeconfig.cache
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\bin\Debug\netcoreapp3.1\System.Device.dll
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\obj\Debug\netcoreapp3.1\GeoLocalizacao.csproj.CopyComplete
+C:\Users\alifa\source\repos\GeoLocalizacao\GeoLocalizacao\obj\Debug\netcoreapp3.1\GeoLocalizacao.csproj.CoreCompileInputs.cache
